@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sazzad Hossain
+# Hi, I'm Sazzad Hossain
 
-🎯 Data Science & AI Enthusiast | Instructor | Builder
+🎯 Data Science & AI@ IIT Guwahati | CSE@ IST | Instructor | Builder
 
 ---
 
@@ -46,16 +46,16 @@
 ## 📌 Projects
 
 ### 🔍 Vendor Performance Analysis
+**Repo link:** https://github.com/1sazzad/vendor-performance-analytics
+**Live Dashboard:** https://vendor-performance-analytics.streamlit.app/
 
 * Built an ETL pipeline to process large CSV datasets
 * Used SQLite for efficient data storage
 * Designed logging system for debugging and monitoring
 
-### 🧠 Sentiment Analysis System
-
-* NLP-based classification model for customer reviews
-* Applied TF-IDF and ML algorithms
-* Deployment using Streamlit (in progress)
+### 🧠 Sumpply Chain Project
+**Repo Link:** https://github.com/1sazzad/supply-chain-project
+**Live Dashboard:** https://supply-chain-project-m.streamlit.app/
 
 
 ---
