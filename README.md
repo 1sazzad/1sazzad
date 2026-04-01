@@ -48,6 +48,7 @@
 ### 🔍 Vendor Performance Analysis
 **Repo link:** https://github.com/1sazzad/vendor-performance-analytics
 **Live Dashboard:** https://vendor-performance-analytics.streamlit.app/
+**See more:** https://vendor-performance-394.nexttoken.app/
 
 * Built an ETL pipeline to process large CSV datasets
 * Used SQLite for efficient data storage
@@ -56,6 +57,7 @@
 ### 🧠 Sumpply Chain Project
 **Repo Link:** https://github.com/1sazzad/supply-chain-project
 **Live Dashboard:** https://supply-chain-project-m.streamlit.app/
+**See more:** https://supply-chain-dashboard-463.nexttoken.app/
 
 
 ---
