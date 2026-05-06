@@ -1,6 +1,6 @@
 # Hi, I'm Sazzad Hossain
 
-🎯 Data Science & AI@ IIT Guwahati | CSE@ IST | Instructor | Builder
+🎯 CSE@ IST | Instructor | Builder
 
 ---
 
